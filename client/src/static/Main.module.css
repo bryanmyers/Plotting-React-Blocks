@@ -1,0 +1,12 @@
+main {
+  background-color: orange;
+  border: 1px solid black;
+  padding: 20px;
+  grid-area: 2 / 2 / 3 / 3;
+  min-height: 70vh;
+  display: grid;
+  grid-template-columns: .33fr .33fr .33fr;
+  grid-template-rows: auto auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px
+}

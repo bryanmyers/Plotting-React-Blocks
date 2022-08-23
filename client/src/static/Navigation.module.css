@@ -1,0 +1,7 @@
+nav {
+  background-color: LightBlue;
+  border: 1px solid black;
+  grid-area: 2 / 1 / 2 / 2;
+  min-height: 50vh;
+  align-self: start
+}

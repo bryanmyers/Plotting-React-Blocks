@@ -1,0 +1,7 @@
+.advert {
+  background-color: purple;
+  border: 1px solid black;
+  grid-area: 2 / 1 / 3 / 4;
+  height: 20%;
+  align-self: end
+}
